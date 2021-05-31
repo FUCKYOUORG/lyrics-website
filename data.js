@@ -11,7 +11,7 @@ const setting = {
 const lyrics  = [
     {
         'title': '不忘初心',
-        'artist': '朱海/舒楠',
+        'artist': 'mahao/舒楠',
         'content': [
             '万水千山不忘来时路',
             '鲜血浇灌出花开的国度',
