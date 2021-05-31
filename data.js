@@ -2,7 +2,7 @@ const page_title = "Lyrics Site";
 
 // Update Method: hotload | reload | default
 const setting = {
-    'is_lyrics_selectable': true,
+    'is_lyrics_selectable': false,
     'is_title_selectable': false,
     'is_artist_selectable': false,
     'update_method': 'default'
