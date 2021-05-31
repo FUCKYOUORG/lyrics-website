@@ -1,4 +1,4 @@
-const page_title = "Lyrics Site";
+const page_title = "Matthew";
 
 // Update Method: hotload | reload | default
 const setting = {
